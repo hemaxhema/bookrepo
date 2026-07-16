@@ -1,0 +1,34 @@
+PASS  bm= 309  pages= 505  تهذيب اللغة 01.pdf
+PASS  bm=   0  pages=  32  تهذيب اللغة 01p.pdf
+PASS  bm= 243  pages= 437  تهذيب اللغة 02.pdf
+PASS  bm= 649  pages= 459  تهذيب اللغة 03.pdf
+PASS  bm= 357  pages= 493  تهذيب اللغة 04.pdf
+PASS  bm= 481  pages= 421  تهذيب اللغة 05.pdf
+PASS  bm= 617  pages= 581  تهذيب اللغة 06.pdf
+PASS  bm= 462  pages= 716  تهذيب اللغة 07.pdf
+PASS  bm= 426  pages= 452  تهذيب اللغة 08.pdf
+PASS  bm= 403  pages= 480  تهذيب اللغة 09.pdf
+PASS  bm= 505  pages= 696  تهذيب اللغة 10.pdf
+PASS  bm= 547  pages= 505  تهذيب اللغة 11.pdf
+PASS  bm= 324  pages= 470  تهذيب اللغة 12.pdf
+PASS  bm= 275  pages= 392  تهذيب اللغة 13.pdf
+PASS  bm= 405  pages= 453  تهذيب اللغة 14.pdf
+PASS  bm= 374  pages= 705  تهذيب اللغة 15.pdf
+PASS  bm=  91  pages= 324  تهذيب اللغة 16.pdf
+PASS  bm=   0  pages= 768  تهذيب اللغة 17 فهارس.pdf
+
+Spot-check — تهذيب اللغة 01.pdf first 12 bookmarks (page should ascend):
+   p  13  علون
+   p  55  حيعل
+   p  55  خعع
+   p  55  العين
+   p  55  عه
+   p  56  عقق
+   p  62  خرع
+   p  62  قعع
+   p  65  عكك
+   p  66  كعع
+   p  67  عجج
+   p  67  كعك
+
+OVERALL: ALL PASS ✅
